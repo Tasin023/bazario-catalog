@@ -1,4 +1,28 @@
 {
-  "updated_at": null,
-  "products": []
+  "updated_at": "2026-08-01T15:26:25.651269+00:00",
+  "products": [
+    {
+      "id": "headphones-2003",
+      "name": "Headphones",
+      "category": "electronics",
+      "price": 1999,
+      "compare_at_price": null,
+      "in_stock": true,
+      "rating": 0,
+      "review_count": 0,
+      "sold_count": 0,
+      "verified": true,
+      "flash_sale": false,
+      "image": "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphones-2003/thumb-v1.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphones-2003/thumb-v1.jpg",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphones-2003/gallery-1-v1.jpg",
+        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphones-2003/gallery-2-v1.jpg",
+        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphones-2003/gallery-3-v1.jpg",
+        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphones-2003/gallery-4-v1.jpg"
+      ],
+      "created_at": "2026-08-01T15:26:25.651195+00:00",
+      "updated_at": "2026-08-01T15:26:25.651237+00:00"
+    }
+  ]
 }
