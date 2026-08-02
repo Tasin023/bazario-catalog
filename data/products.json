@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T10:52:05.384521+00:00",
+  "updated_at": "2026-08-02T10:54:01.332726+00:00",
   "products": [
     {
       "id": "airpods-0523",
@@ -22,6 +22,28 @@
       ],
       "created_at": "2026-08-02T10:52:05.384453+00:00",
       "updated_at": "2026-08-02T10:52:05.384494+00:00"
+    },
+    {
+      "id": "headphone-3176",
+      "name": "Headphone",
+      "category": "electronics",
+      "price": 1999,
+      "compare_at_price": null,
+      "in_stock": true,
+      "rating": 0,
+      "review_count": 0,
+      "sold_count": 0,
+      "verified": true,
+      "flash_sale": false,
+      "image": "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-3176/thumb-v1.jpg",
+      "thumb": "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-3176/thumb-v1.jpg",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-3176/gallery-1-v1.jpg",
+        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-3176/gallery-2-v1.jpg",
+        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-3176/gallery-3-v1.jpg"
+      ],
+      "created_at": "2026-08-02T10:54:01.332656+00:00",
+      "updated_at": "2026-08-02T10:54:01.332700+00:00"
     }
   ]
 }
