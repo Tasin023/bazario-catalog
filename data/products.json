@@ -7,7 +7,7 @@
       "category": "electronics",
       "price": 1999,
       "compare_at_price": null,
-      "in_stock": true,
+      "in_stock": false,
       "rating": 0,
       "review_count": 0,
       "sold_count": 0,
@@ -22,7 +22,7 @@
         "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphones-2003/gallery-4-v1.jpg"
       ],
       "created_at": "2026-08-01T15:26:25.651195+00:00",
-      "updated_at": "2026-08-01T15:26:25.651237+00:00"
+      "updated_at": "2026-08-02T03:40:38.117803+00:00"
     }
   ]
 }
