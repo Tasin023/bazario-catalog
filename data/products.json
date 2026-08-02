@@ -1,28 +1,4 @@
 {
-  "updated_at": "2026-08-02T10:44:38.234463+00:00",
-  "products": [
-    {
-      "id": "headphone-0790",
-      "name": "Headphone",
-      "category": "electronics",
-      "price": 1299,
-      "compare_at_price": null,
-      "in_stock": true,
-      "rating": 0,
-      "review_count": 0,
-      "sold_count": 0,
-      "verified": true,
-      "flash_sale": false,
-      "image": "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-0790/thumb-v1.jpg",
-      "thumb": "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-0790/thumb-v1.jpg",
-      "gallery": [
-        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-0790/gallery-1-v1.jpg",
-        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-0790/gallery-2-v1.jpg",
-        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-0790/gallery-3-v1.jpg",
-        "https://cdn.jsdelivr.net/gh/tasin023/bazario-catalog@main/products/headphone-0790/gallery-4-v1.jpg"
-      ],
-      "created_at": "2026-08-02T10:44:38.234380+00:00",
-      "updated_at": "2026-08-02T10:44:38.234429+00:00"
-    }
-  ]
+  "updated_at": "2026-08-02T10:45:59.282040+00:00",
+  "products": []
 }
